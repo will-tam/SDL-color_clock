@@ -32,4 +32,9 @@ Of course, you can try directly in your PM (in TTY1 for example - CTRL-ALT-F1 if
   - [https://wiki.libsdl.org/SDL2/FrontPage](https://wiki.libsdl.org/SDL2/FrontPage)
   - All people writing about SDL programmation.
 
+- **Circle algorithmes** :
+  - [https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_cercle_d'Andres](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_cercle_d'Andres)
+  - [https://gist.github.com/bert/1085538](https://gist.github.com/bert/1085538)
+
+
 # ENJOY
